@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/tag/ai/</link>
+      <atom:link href="https://srubinacci.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AI</title>
+      <link>https://srubinacci.github.io/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Artificial Intelligence</title>
+      <link>https://srubinacci.github.io/project/semantic_ai/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/project/semantic_ai/</guid>
+      <description>&lt;p&gt;The key concept in semantic artificial intelligence is the rappresentation of knowledge in terms of entities and their relationships rather than plain strings. Formal logic plays an important role in the area of knowledge representation and reasoning. Statistical and logical inference on these models is an important research area in Computer Science and Artificial Intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

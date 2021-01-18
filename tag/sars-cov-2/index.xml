@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARS-cov-2 | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/tag/sars-cov-2/</link>
+      <atom:link href="https://srubinacci.github.io/tag/sars-cov-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>SARS-cov-2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>SARS-cov-2</title>
+      <link>https://srubinacci.github.io/tag/sars-cov-2/</link>
+    </image>
+    
+    <item>
+      <title>High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs</title>
+      <link>https://srubinacci.github.io/publication/20200727_covid/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20200727_covid/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/project/</link>
+      <atom:link href="https://srubinacci.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://srubinacci.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Computational and Statistical Genomics</title>
+      <link>https://srubinacci.github.io/project/statistical_genetics/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/project/statistical_genetics/</guid>
+      <description>&lt;p&gt;Reasearch in the field of computational and statistical genomics improved greatly in the last few years. The need to scale to large datasets motivated a great interest by researchers from all over the world. My research topic mainly focus on haplotype phasing and genotype imputation methods.&lt;/p&gt;
+&lt;p&gt;Genotype imputation is the process of predicting unobserved genotypes in a sample of individuals using a reference panel of haplotypes. In the last 10 years reference panels have increased in size by more than 100 fold. Increasing reference panel size improves accuracy of markers with low minor allele frequencies but poses ever increasing computational challenges for imputation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Artificial Intelligence</title>
+      <link>https://srubinacci.github.io/project/semantic_ai/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/project/semantic_ai/</guid>
+      <description>&lt;p&gt;The key concept in semantic artificial intelligence is the rappresentation of knowledge in terms of entities and their relationships rather than plain strings. Formal logic plays an important role in the area of knowledge representation and reasoning. Statistical and logical inference on these models is an important research area in Computer Science and Artificial Intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cancer Simulations</title>
+      <link>https://srubinacci.github.io/project/cancer_simulations/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/project/cancer_simulations/</guid>
+      <description>&lt;p&gt;General purpose simulation packages aimed at multi-scale cell-based modelling can help to investigate the complex interplay characterizing the behavior of multicellular systems, with particular focus on the possible emergence of  dysfunctional  dynamical  structures  such  as  tumors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,19 +5,64 @@
     <link>https://srubinacci.github.io/tag/imputation/</link>
       <atom:link href="https://srubinacci.github.io/tag/imputation/index.xml" rel="self" type="application/rss+xml" />
     <description>imputation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020. All rights reserved.</copyright><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://srubinacci.github.io/images/icon_hu2413ddf41d6aaaed9311dbdbe4988d0f_11776_512x512_fill_lanczos_center_2.png</url>
+      <url>https://srubinacci.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>imputation</title>
       <link>https://srubinacci.github.io/tag/imputation/</link>
     </image>
     
     <item>
       <title>Efficient phasing and imputation of low-coverage sequencing data using large reference panels</title>
-      <link>https://srubinacci.github.io/publication/glimpse-2020/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://srubinacci.github.io/publication/glimpse-2020/</guid>
-      <description></description>
+      <link>https://srubinacci.github.io/publication/20210107_glimpse/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20210107_glimpse/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIB press release</title>
+      <link>https://srubinacci.github.io/post/210118_sib_press/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/post/210118_sib_press/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Swiss Institute of Bioinformatics (SIB) released an article about our low-coverage whole genome sequencing imputation method &amp;lsquo;GLIMPSE&amp;rsquo; and its applications.
+The target of the article is the general audience and it is available in &lt;a href=&#34;https://www.sib.swiss/about-sib/news/10818-inferring-human-genomes-at-a-fraction-of-the-current-cost-promises-to-boost-biomedical-research?utm_source=Twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=organic&amp;amp;utm_content=glimpse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;English&lt;/a&gt;, &lt;a href=&#34;https://www.sib.swiss/images/News/PressRelease_GLIMPSE_FR_2021-01-13.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French&lt;/a&gt; and &lt;a href=&#34;https://www.sib.swiss/images/News/PressRelease_GLIMPSE_DE_2021-01-13.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German&lt;/a&gt; and contains few quotes from me, Olivier and Diogo.&lt;/p&gt;
+&lt;p&gt;Additionally, Olivier had an interview at the swiss national radio (RTS) discussing the paper, the method and its applications.
+You can listen the interview &lt;a href=&#34;https://pages.rts.ch/la-1ere/programmes/cqfd/11863518-un-logiciel-pour-faire-analyser-notre-genome-a-moindre-cout-15-01-2021.html?mediaShare=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HERE&lt;/a&gt; (in French).&lt;/p&gt;
+&lt;p&gt;Feedbacks are always very appreciated!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genotype imputation using the Positional Burrows Wheeler Transform</title>
+      <link>https://srubinacci.github.io/publication/20201115_impute5/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20201115_impute5/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs</title>
+      <link>https://srubinacci.github.io/publication/20200727_covid/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20200727_covid/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

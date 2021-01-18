@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Genomics | Simone Rubinacci</title>
+    <link>https://srubinacci.github.io/tag/statistical-genomics/</link>
+      <atom:link href="https://srubinacci.github.io/tag/statistical-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Genomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srubinacci.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistical Genomics</title>
+      <link>https://srubinacci.github.io/tag/statistical-genomics/</link>
+    </image>
+    
+    <item>
+      <title>Computational and Statistical Genomics</title>
+      <link>https://srubinacci.github.io/project/statistical_genetics/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/project/statistical_genetics/</guid>
+      <description>&lt;p&gt;Reasearch in the field of computational and statistical genomics improved greatly in the last few years. The need to scale to large datasets motivated a great interest by researchers from all over the world. My research topic mainly focus on haplotype phasing and genotype imputation methods.&lt;/p&gt;
+&lt;p&gt;Genotype imputation is the process of predicting unobserved genotypes in a sample of individuals using a reference panel of haplotypes. In the last 10 years reference panels have increased in size by more than 100 fold. Increasing reference panel size improves accuracy of markers with low minor allele frequencies but poses ever increasing computational challenges for imputation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient phasing and imputation of low-coverage sequencing data using large reference panels</title>
+      <link>https://srubinacci.github.io/publication/20210107_glimpse/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20210107_glimpse/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genotype imputation using the Positional Burrows Wheeler Transform</title>
+      <link>https://srubinacci.github.io/publication/20201115_impute5/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20201115_impute5/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs</title>
+      <link>https://srubinacci.github.io/publication/20200727_covid/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/20200727_covid/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk @Recomb2020!</title>
+      <link>https://srubinacci.github.io/talk/talk-recomb2020/</link>
+      <pubDate>Sat, 20 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/talk/talk-recomb2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk @EMGM2020!</title>
+      <link>https://srubinacci.github.io/talk/talk-emgm2020/</link>
+      <pubDate>Thu, 16 Apr 2020 13:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/talk/talk-emgm2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
