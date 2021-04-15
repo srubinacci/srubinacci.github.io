@@ -5,12 +5,28 @@
     <link>https://srubinacci.github.io/</link>
       <atom:link href="https://srubinacci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Simone Rubinacci</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Thu, 22 Apr 2021 10:20:00 +0000</lastBuildDate>
     <image>
       <url>https://srubinacci.github.io/images/icon_hu2413ddf41d6aaaed9311dbdbe4988d0f_11776_512x512_fill_lanczos_center_2.png</url>
       <title>Simone Rubinacci</title>
       <link>https://srubinacci.github.io/</link>
     </image>
+    
+    <item>
+      <title>Talk @EMGM2021!</title>
+      <link>https://srubinacci.github.io/talk/talk-emgm2021/</link>
+      <pubDate>Thu, 22 Apr 2021 10:20:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/talk/talk-emgm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar at University of Bern</title>
+      <link>https://srubinacci.github.io/talk/seminar-at-university-of-bern/</link>
+      <pubDate>Mon, 19 Apr 2021 11:15:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/talk/seminar-at-university-of-bern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational and Statistical Genomics</title>
