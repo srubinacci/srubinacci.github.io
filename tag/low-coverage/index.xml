@@ -5,7 +5,7 @@
     <link>https://srubinacci.github.io/tag/low-coverage/</link>
       <atom:link href="https://srubinacci.github.io/tag/low-coverage/index.xml" rel="self" type="application/rss+xml" />
     <description>low-coverage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021. All rights reserved.</copyright><lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023. All rights reserved.</copyright><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srubinacci.github.io/images/icon_hu2413ddf41d6aaaed9311dbdbe4988d0f_11776_512x512_fill_lanczos_center_2.png</url>
       <title>low-coverage</title>
@@ -13,29 +13,19 @@
     </image>
     
     <item>
-      <title>Efficient phasing and imputation of low-coverage sequencing data using large reference panels</title>
-      <link>https://srubinacci.github.io/publication/20210107_glimpse/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://srubinacci.github.io/publication/20210107_glimpse/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Imputation of low-coverage sequencing data from 150,119 UK Biobank genomes</title>
+      <link>https://srubinacci.github.io/publication/glimpse2-2022/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/glimpse2-2022/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs</title>
-      <link>https://srubinacci.github.io/publication/20200727_covid/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://srubinacci.github.io/publication/20200727_covid/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Efficient phasing and imputation of low-coverage sequencing data using large reference panels</title>
+      <link>https://srubinacci.github.io/publication/glimpse-2021/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://srubinacci.github.io/publication/glimpse-2021/</guid>
+      <description></description>
     </item>
     
   </channel>
